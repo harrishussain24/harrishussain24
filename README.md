@@ -62,13 +62,12 @@
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img alt="pgAdmin" src="https://img.shields.io/badge/-pgAdmin-F4F4F4?style=flat-square&logo=postgresql&logoColor=336791" />
 <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-
-
-
-
-
-
 </p>
+
+## �� Achievements
+- [![Contributor](https://img.shields.io/badge/Contributor-Open%20Source-blue)](https://github.com/UsmanKayani714/wikidata-explorer)
+- [![Bug Fixer](https://img.shields.io/badge/Bug%20Fixer-React%20Issues-green)](https://github.com/UsmanKayani714/wikidata-explorer)
+- [![TypeScript](https://img.shields.io/badge/TypeScript-Fixed-blue)](https://github.com/UsmanKayani714/wikidata-explorer)
 
 <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://www.buymeacoffee.com/harrishussain24" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
